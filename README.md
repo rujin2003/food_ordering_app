@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project is a food ordering app for andriod devices it has the resturants menu with a verry interacting UI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For state management provider is used throught the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For Login and signup Firebase Auth is used and Fore storing the data of the user and ordes FirebaseFiresotre us used.
+
+The logins credientials is also saved locally using flutter secure plugin which stores the login data by which we dont have to login once the app restarts.
+
+##note this app only works for andriod devices.
+
+
+
+
+
